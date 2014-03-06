@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover: Kiruthiga Balakrishnan
 
-* Ruby version
+* Ruby version kiru - last branch
 
 * System dependencies
 
